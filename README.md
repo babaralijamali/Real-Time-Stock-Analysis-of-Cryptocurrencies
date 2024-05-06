@@ -13,7 +13,7 @@ pip install matplotlib
 
 Usage:
 1. Clone the repository to your local machine:
-   git clone https://github.com/your_username/Real-Time-Stock-Analysis-of-Cryptocurrencies.git
+   git clone https://github.com/babaralijamali/Real-Time-Stock-Analysis-of-Cryptocurrencies.git
 
 2. Navigate to the project directory:
    cd Real-Time-Stock-Analysis-of-Cryptocurrencies
